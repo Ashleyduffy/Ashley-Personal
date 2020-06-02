@@ -53,15 +53,16 @@ figure {
     }
 header h1 {
      font-size:6vw;
+ color:#491723;
      font-family:Arial;
-     text-shadow: 2px 2px 5px black;
+     text-shadow:;
      margin: 2px 0;
     }
 header h4 {
     font-size:3vw;
     font-family:Arial;
-    color:#C3ABD0;
-    text-shadow: 2px 2px 5px black;
+    color:#491723;
+    text-shadow:;
     margin:1em 0 0 0;
     }
     
@@ -70,13 +71,13 @@ header a {
     color:white;
     }
 header li {
-  color: C3ABD0;
+  color: #491723;
   font-size: 20px;
   
 }
 header p {
   text-align: right;
-  color: navy;
+  color: #491723;
   font-size: 15px;
 }
 nav {
@@ -87,7 +88,7 @@ nav {
     padding:.5em;
     margin:0;
     /*Lines 102 to 105 make the menu stick to the top*/
-color:#C3ABD0;
+color:#491723;
     position: sticky;
     top:0;
     z-index:999;
@@ -95,7 +96,7 @@ color:#C3ABD0;
 
 main {
     background:rgba(255,255,255,.3);
-    color:navy;
+    color:#491723;
     grid-area:main;
   
     }
@@ -104,7 +105,7 @@ main a {
     font-weight:bold;
 }
 .button {
- color: navy;
+ color: #491723;
 }
 main h1 {
   text-align: center;
