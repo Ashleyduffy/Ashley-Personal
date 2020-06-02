@@ -87,10 +87,10 @@ nav {
     text-align:center;
     padding:.5em;
     margin:0;
-    /*Lines 102 to 105 make the menu stick to the top*/
-color:#491723;
+ color:#491723;
+    /*Lines 92 to 94 make the menu stick to the top*/
     position: sticky;
-    top:0;
+    top:100;
     z-index:999;
 }
 
